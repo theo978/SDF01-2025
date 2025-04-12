@@ -1,4 +1,4 @@
-# [SDF01] Challenge: My First Repo 🚀
+# Theodore is cool 🚀
 
 # 👋 Hi, I'm [Your Name]
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 About Me
+## 🎯 About Theodore
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
@@ -15,7 +15,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ The skills to obtain
 
 **Currently learning:**
 
