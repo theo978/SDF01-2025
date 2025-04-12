@@ -6,7 +6,7 @@
 
 ---
 
-## 🎯 About Me
+## Information
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
@@ -17,7 +17,6 @@
 
 ## 🛠️ Tech Stack
 
-**Currently learning:**
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
