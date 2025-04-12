@@ -6,7 +6,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 🎯 About Theodore
+=======
+## Information
+>>>>>>> 4d67b18fed4362dce6e3ff4e3a68b185847bf36b
 
 - 💡 I'm currently learning **GitHub and version control** before diving into coding.
 - 🎓 Soon, I'll be exploring **HTML, CSS, and JavaScript**!
@@ -17,7 +21,6 @@
 
 ## 🛠️ The skills to obtain
 
-**Currently learning:**
 
 - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
